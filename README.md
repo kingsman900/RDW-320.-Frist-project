@@ -89,7 +89,7 @@
 
     <!--This is unorder list tag-->
 
-    <ul type=square>
+    <ul type="square">
         <li>Bangali (Mother Language)</li>
         <li>English (Very good at writing and listening , average in speaking)</li>
 
